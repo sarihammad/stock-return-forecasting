@@ -17,7 +17,7 @@ Using 11 tickers from 2015–2024:
 | **Linear Regression** | 0.000492  | 0.0105                        | 50.37%               |
 | **XGBoost**       | 0.000429  | 0.0053                        | 50.96%               |
 
-> The LSTM model slightly outperformed the baselines, especially in directional accuracy — a key signal in financial forecasting.
+> The LSTM model slightly outperformed the baselines, especially in directional accuracy.
 
 ## How to Run
 
