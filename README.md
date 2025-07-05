@@ -1,4 +1,4 @@
-# LSTM Forecasting for Multi-Ticker Returns
+# Stock Return Forecasting
 
 Compares three models (LSTM, Linear Regression, and XGBoost) to forecast next-day log returns for a group of major U.S. stocks using historical price data from Yahoo Finance.
 
