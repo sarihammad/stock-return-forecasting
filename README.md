@@ -4,7 +4,7 @@ Compares three models (LSTM, Linear Regression, and XGBoost) to forecast next-da
 
 ## Features
 
-The project uses PyTorch to train a multi-output LSTM model and Scikit-learn to implement baseline models, including Linear Regression and XGBoost. It evaluates predictive performance using metrics like mean squared error (MSE), Spearman correlation (information coefficient), and directional accuracy.
+Uses PyTorch to train a multi-output LSTM model and Scikit-learn to implement baseline models, including Linear Regression and XGBoost. It evaluates predictive performance using metrics like mean squared error (MSE), Spearman correlation (information coefficient), and directional accuracy.
 
 
 ## Model Evaluation
